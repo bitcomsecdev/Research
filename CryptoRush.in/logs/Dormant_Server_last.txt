@@ -1,0 +1,21 @@
+root     pts/0        66.172.11.15     Fri May 16 19:18 - 19:21  (00:02)    
+root     pts/0        66.172.33.33     Thu Apr 24 10:10 - 10:25  (00:14)    
+root     pts/0        66.172.33.33     Wed Apr 23 06:11 - 07:11  (01:00)    
+root     pts/0        66.172.33.33     Sat Apr 19 17:03 - 00:22  (07:18)     
+kristian pts/29       66.172.33.33     Wed Apr 16 20:27 - 21:14  (00:46)    
+root     pts/0        66.172.33.33     Wed Apr 16 20:24 - 03:02  (06:37)    
+root     pts/52       66.172.33.33     Sun Apr 13 11:54 - 19:07 (2+07:12)  
+root     pts/52       66.172.33.33     Sun Apr 13 11:50 - 11:54  (00:04)    
+kristian pts/29       66.172.33.33     Sun Apr 13 11:45 - 19:07 (2+07:21)  
+root     pts/53       66.172.33.33     Sun Apr 13 11:26 - 13:43  (02:16)    
+root     pts/52       66.172.33.33     Sun Apr 13 11:20 - 11:27  (00:06)    
+kristian pts/29       66.172.33.33     Sun Apr 13 11:12 - 11:27  (00:14)    
+root     pts/0        66.172.33.33     Sun Apr 13 10:41 - 13:12  (02:30)    
+root     pts/0        66.172.33.33     Sun Apr 13 10:39 - 10:41  (00:02)    
+root     pts/0        66.172.33.33     Sun Apr 13 10:22 - 10:38  (00:15)    
+
+last -i from CryptoRush.in's dormant back up server.
+
+JBA logged into the server between April 13th to May 16th using a Chunkhost VPS paid for in Bitcoin.
+
+He used these servers in the hacks of CryptoRush.in, and Midascoin project.
